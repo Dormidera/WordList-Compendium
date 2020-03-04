@@ -2,18 +2,18 @@
 Wordlists for everything. Users, passwords, directories, files, vulnerabilities, etc. All in a repository
 
 
-### Hacker's Handbook Series Books
+### Passwords
 
-* [Android Hacker's Handbook by Joshua J. Drake et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
-* [Car Hacker's Handbook by Craig Smith, 2016](https://nostarch.com/carhacking)
-* [The Browser Hacker's Handbook by Wade Alcorn et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118662091.html)
-* [The Database Hacker's Handbook, David Litchfield et al., 2005](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764578014.html)
-* [The Mac Hacker's Handbook by Charlie Miller & Dino Dai Zovi, 2009](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470395362.html)
-* [The Mobile Application Hacker's Handbook by Dominic Chell et al., 2015](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
-* [The Shellcoder's Handbook by Chris Anley et al., 2007](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047008023X.html)
-* [The Web Application Hacker's Handbook by D. Stuttard, M. Pinto, 2011](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026470.html)
-* [iOS Hacker's Handbook by Charlie Miller et al., 2012](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118204123.html)
-
+* [Spanish](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
+* [English](https://nostarch.com/carhacking)
+* [Probable-Wordlist, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists)
+  * [Passwords Default](https://github.com/berzerk0/Probable-Wordlists/blob/master/Dictionary-Style/Technical_and_Default/Password_Default_ProbWL.txt)
+* [WPA]()
+   * [Real-Password-WPA-MegaLinks, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Real-Password-WPA-MegaLinks.md)
+  * [Top204Thousand-WPA-probable, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top204Thousand-WPA-probable-v2.txt)
+  * [Top4800-WPA-probable, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top4800-WPA-probable-v2.txt)
+  * [Top447-WPA-probable, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top447-WPA-probable-v2.txt
+)
 ### Lock Picking Books
 
 * [Eddie the Wire books](https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
