@@ -14,8 +14,8 @@ Wordlists for everything. Users, passwords, directories, files, vulnerabilities,
 * [Probable-Wordlist, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists)
   * [Real Passwords MegaLinks](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Real-Passwords-MegaLinks.md)
   * [Passwords Default](https://github.com/berzerk0/Probable-Wordlists/blob/master/Dictionary-Style/Technical_and_Default/Password_Default_ProbWL.txt)
-  * [Top 304Thousand](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top304Thousand-probable-v2.txt)
-  * [Top 12Thousand](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top12Thousand-probable-v2.txt)
+  * [Top 304 Thousand](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top304Thousand-probable-v2.txt)
+  * [Top 12 Thousand](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top12Thousand-probable-v2.txt)
   * [Top 1575](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top1575-probable-v2.txt)
   * [Top 207](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Top207-probable-v2.txt)
   * [Analysis Files](https://github.com/berzerk0/Probable-Wordlists/tree/master/Analysis-Files)  
@@ -32,7 +32,7 @@ Wordlists for everything. Users, passwords, directories, files, vulnerabilities,
 
 ### Directories
 
-* [Dirb]()
+* [Dirb](https://github.com/Dormidera/WordLists/tree/master/Directories/Dirb/)
 
 
 * [DirBuster]()
