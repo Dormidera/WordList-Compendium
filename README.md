@@ -1,4 +1,6 @@
-# WordLists
+# WordLists 
+![Logo](https://github.com/Dormidera/WordLists/blob/master/wordlistcompendium.png)
+
 Wordlists for everything. Users, passwords, directories, files, vulnerabilities, etc. All in a repository
 
 
