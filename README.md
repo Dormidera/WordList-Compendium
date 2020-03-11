@@ -30,12 +30,13 @@ Wordlists for everything. Users, passwords, directories, files, vulnerabilities,
 * [Spanish](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
 
 
-### Directories
+### Tools
 
 * [Dirb](https://github.com/Dormidera/WordLists/tree/master/Directories/Dirb/)
 
+* [Fuzzdb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Fuzzdb)
 
-* [DirBuster]()
+* [DirSearch](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/DirSearch)
 
+* [Wfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Wfuzz)
 
-* [DirSearch]()
