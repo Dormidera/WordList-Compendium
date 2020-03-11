@@ -32,11 +32,16 @@ Wordlists for everything. Users, passwords, directories, files, vulnerabilities,
 
 ### Tools
 
-* [Dirb](https://github.com/Dormidera/WordLists/tree/master/Directories/Dirb/)
+* [Dirb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Dirb)
 
 * [Fuzzdb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Fuzzdb)
 
 * [DirSearch](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/DirSearch)
 
 * [Wfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Wfuzz)
+
+* [Cfuzzer](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Cfuzzer)
+
+* [Pyfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Pyfuzz)
+
 
