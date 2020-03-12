@@ -29,6 +29,11 @@ Wordlists for everything. Users, passwords, directories, files, vulnerabilities,
 
 * [Spanish](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
 
+### Users
+
+
+### Injections
+
 
 ### Tools
 
