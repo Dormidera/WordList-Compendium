@@ -1,7 +1,8 @@
 # WordList Compendium
 
-Wordlists for everything. Users, passwords, directories, files, vulnerabilities, etc. All in a repository.
+Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, etc. In a peculiar order, sorry.
 
+If you want to add more or If you know the authorship of a dictionary, contact me.
 
 ### Passwords
 
@@ -26,16 +27,37 @@ Wordlists for everything. Users, passwords, directories, files, vulnerabilities,
     * [Top 447, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top447-WPA-probable-v2.txt)
     * [Top 62, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top62-WPA-probable-v2.txt)  
 
+* [Passwords mix, by Werdlists](https://github.com/decal/werdlists/tree/master/passes-dicts)
 
-* [Spanish](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
+* [Nmap](https://github.com/Dormidera/WordList-Compendium/blob/master/Passwords/Nmap)
+
 
 ### Users
 
-
+  * [Users Common](https://github.com/Dormidera/WordList-Compendium/blob/master/Users/Users%20Common)  
+ 
 ### Injections
 
+  * [Cross-Site Scripting (XSS)](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/Cross-Site%20Scripting%20(XSS))  
+ 
+### Languages
+
+  * [German](https://github.com/Dormidera/WordList-Compendium/blob/master/Languages/German)  
+  * [Spanish](https://github.com/Dormidera/WordList-Compendium/blob/master/Languages/Spanish)   
+  
+### Vendors/Software
+
+  * [Vendor Default](https://github.com/decal/werdlists/blob/master/passes-dicts/vendor-default-passwords.csv)  
+
+  * [Tomcat](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Tomcat%20(user:password))  
+
+  * [Oracle](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Oracle%20(user:password))  
 
 ### Tools
+
+* [SQLmap](https://github.com/sqlmapproject/sqlmap)
+
+* [Hashcat](https://github.com/hashcat/hashcat)
 
 * [Dirb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Dirb)
 
