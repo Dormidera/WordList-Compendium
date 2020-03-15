@@ -90,4 +90,10 @@ If you want to add more or If you know the authorship of a dictionary, contact m
   * Commonspeak is a wordlist generation tool that leverages public datasets from Google's BigQuery platform.
 
 
+Do you want more info? In my personal blog there are some more :
+  * [Device search engines](https://www.1024megas.com/resources).
+  * [Links to resources](https://www.1024megas.com/search-engines).
+  * [1024MEGAS.com](https://www.1024megas.com) 
+
+
 Collected by @Dormidera
