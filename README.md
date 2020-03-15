@@ -40,7 +40,9 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 ### Injections
 
   * [Cross-Site Scripting (XSS)](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/Cross-Site%20Scripting%20(XSS))  
- 
+  * [SQL](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/SQL)  
+  * [Path Trasversal](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/PathTrasversal)  
+
 ### Languages
 
   * [German](https://github.com/Dormidera/WordList-Compendium/blob/master/Languages/German)  
