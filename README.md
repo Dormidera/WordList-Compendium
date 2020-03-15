@@ -35,7 +35,7 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 ### Users :busts_in_silhouette: 	
   * [Users Common](https://github.com/Dormidera/WordList-Compendium/blob/master/Users/Users%20Common)  
  
-### Injections  :syringe:
+### Injections :syringe:
   * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
      * A list of useful payloads and bypass for Web Application Security and Pentest/CTF (CSRF, LDAP, NoSQL, XEE, etc.).
   * [Cross-Site Scripting (XSS)](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/Cross-Site%20Scripting%20(XSS))  
@@ -91,9 +91,9 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 
 
 Do you want more info? In my personal blog there are some more :
-  * [Device search engines](https://www.1024megas.com/resources).
-  * [Links to resources](https://www.1024megas.com/search-engines).
-  * [1024MEGAS.com](https://www.1024megas.com) 
+  * [Device search engines](https://www.1024megas.com/search-engines). :mag:
+  * [Links to resources](https://www.1024megas.com/resources). :link:
+  * [1024MEGAS.com](https://www.1024megas.com). :man_technologist:
 
 
-Collected by @Dormidera
+Collected by @Dormidera. 
