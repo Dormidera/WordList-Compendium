@@ -65,7 +65,7 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 * [Cfuzzer](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Cfuzzer)
 * [Pyfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Pyfuzz)
 * [CommonSpeak](https://github.com/pentester-io/commonspeak)
-  *Commonspeak is a wordlist generation tool that leverages public datasets from Google's BigQuery platform
+  * Commonspeak is a wordlist generation tool that leverages public datasets from Google's BigQuery platform
 
 
 Collected by @Dormidera
