@@ -6,7 +6,6 @@ Personal compilation of wordlists & dictionaries for everything. Users, password
 If you want to add more or If you know the authorship of a dictionary, contact me.
 
 ### Passwords
-
 * [Passwords, by SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
   * [Common Credentials](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials)
   * [Cracked Hashes milw0rm-dictionary](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Cracked-Hashes/milw0rm-dictionary.txt)
@@ -34,30 +33,43 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 
 
 ### Users
-
   * [Users Common](https://github.com/Dormidera/WordList-Compendium/blob/master/Users/Users%20Common)  
  
 ### Injections
-
+  * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+     * A list of useful payloads and bypass for Web Application Security and Pentest/CTF (CSRF, LDAP, NoSQL, XEE, etc.).
   * [Cross-Site Scripting (XSS)](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/Cross-Site%20Scripting%20(XSS))  
   * [SQL](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/SQL)  
   * [Path Trasversal](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/PathTrasversal)  
 
 ### Languages
-
   * [German](https://github.com/Dormidera/WordList-Compendium/blob/master/Languages/German)  
   * [Spanish](https://github.com/Dormidera/WordList-Compendium/blob/master/Languages/Spanish)   
   
 ### Vendors/Software
-
   * [Vendor Default](https://github.com/decal/werdlists/blob/master/passes-dicts/vendor-default-passwords.csv)  
   * [Tomcat](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Tomcat%20(user:password))  
   * [Oracle](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Oracle%20(user:password)) 
+  * [ckeditor 4.7.3 (by @_devalias)](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/ckeditor%204.7.3%20(by%20%40_devalias))
+  * [GovCMS 7.x-2.15 (by @_devalias)](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/GovCMS%207.x-2.15%20(by%20%40_devalias))
   * [ASP](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/ASP)
   * [JSP](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/JSP)
+  * [PHP 1/2](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/PHP%201to2)
+  * [PHP 2/2](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/PHP%202to2)
+  * [Exploitable PHP functions](https://stackoverflow.com/questions/3115559/exploitable-php-functions)
 
+### Domains/Subdomains
+ * [Mix Subdomains popular 2020 (incoming...)](https://github.com/bitquark/dnspop)
+ * [Mix Subdomains popular 2017](https://github.com/skooch/subpop-results/tree/master/20170128)
+ * [Mix Subdomains popular 2016](https://github.com/bitquark/dnspop/tree/master/results)
+ * [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains)
+
+### Others
+ * [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+ * [Google 10000 English](https://github.com/first20hours/google-10000-english)
+   * This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus. 
+ 
 ### Tools
-
 * [SQLmap](https://github.com/sqlmapproject/sqlmap)
   * sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
 * [Hashcat](https://github.com/hashcat/hashcat)
