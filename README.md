@@ -1,4 +1,5 @@
-# WordList Compendium
+![Logo](https://github.com/Dormidera/WordList-Compendium/blob/master/wordlistcompendiumlogo.png)
+
 
 Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, etc. In a peculiar order, sorry.
 
@@ -48,27 +49,19 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 ### Vendors/Software
 
   * [Vendor Default](https://github.com/decal/werdlists/blob/master/passes-dicts/vendor-default-passwords.csv)  
-
   * [Tomcat](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Tomcat%20(user:password))  
-
   * [Oracle](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Oracle%20(user:password))  
 
 ### Tools
 
 * [SQLmap](https://github.com/sqlmapproject/sqlmap)
-
 * [Hashcat](https://github.com/hashcat/hashcat)
-
 * [Dirb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Dirb)
-
 * [Fuzzdb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Fuzzdb)
-
 * [DirSearch](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/DirSearch)
-
 * [Wfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Wfuzz)
-
 * [Cfuzzer](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Cfuzzer)
-
 * [Pyfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Pyfuzz)
 
 
+Collected by @Dormidera
