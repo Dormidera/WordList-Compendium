@@ -52,20 +52,30 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 
   * [Vendor Default](https://github.com/decal/werdlists/blob/master/passes-dicts/vendor-default-passwords.csv)  
   * [Tomcat](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Tomcat%20(user:password))  
-  * [Oracle](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Oracle%20(user:password))  
+  * [Oracle](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Oracle%20(user:password)) 
+  * [ASP](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/ASP)
+  * [JSP](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/JSP)
 
 ### Tools
 
 * [SQLmap](https://github.com/sqlmapproject/sqlmap)
+  * sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
 * [Hashcat](https://github.com/hashcat/hashcat)
+  * World's fastest and most advanced password recovery utility.
 * [Dirb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Dirb)
+  * DIRB is a Web Content Scanner. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary based attack against a web server and analyzing the response.
 * [Fuzzdb](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Fuzzdb)
+  * Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 * [DirSearch](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/DirSearch)
+  * Web path scanner.
 * [Wfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Wfuzz)
+  * Web application fuzzer http://wfuzz.io.
 * [Cfuzzer](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Cfuzzer)
+  * url-fuzzer.
 * [Pyfuzz](https://github.com/Dormidera/WordList-Compendium/tree/master/Tools/Pyfuzz)
+  * URL fuzzing tool made of Python.
 * [CommonSpeak](https://github.com/pentester-io/commonspeak)
-  * Commonspeak is a wordlist generation tool that leverages public datasets from Google's BigQuery platform
+  * Commonspeak is a wordlist generation tool that leverages public datasets from Google's BigQuery platform.
 
 
 Collected by @Dormidera
