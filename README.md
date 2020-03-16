@@ -1,5 +1,6 @@
 ![Logo](https://github.com/Dormidera/WordList-Compendium/blob/master/wordlistcompendiumlogo.png)
-
+https://img.shields.io/github/followers/Dormidera?label=follow&style=social
+https://img.shields.io/github/stars/Dormidera/WordList-Compendium?style=social
 
 Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, etc. In a peculiar order, sorry.
 
