@@ -25,19 +25,18 @@ If you want to add more or If you know the authorship of a dictionary, contact m
     * [Top 4800, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top4800-WPA-probable-v2.txt)
     * [Top 447, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top447-WPA-probable-v2.txt)
     * [Top 62, by Berzerk0](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Top62-WPA-probable-v2.txt)  
-
 * [Passwords mix, by Werdlists](https://github.com/decal/werdlists/tree/master/passes-dicts)
-
 * [Nmap](https://github.com/Dormidera/WordList-Compendium/blob/master/Passwords/Nmap)
-
 
 ### Users :busts_in_silhouette: 	
   * [Users Common](https://github.com/Dormidera/WordList-Compendium/blob/master/Users/Users%20Common)  
+  * [Users mix by SecLists](https://github.com/danielmiessler/SecLists/tree/master/Usernames)  
  
 ### Injections :syringe:
   * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
      * A list of useful payloads and bypass for Web Application Security and Pentest/CTF (CSRF, LDAP, NoSQL, XEE, etc.).
-  * [Cross-Site Scripting (XSS)](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/Cross-Site%20Scripting%20(XSS))  
+  * [Cross-Site Scripting (XSS)](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/Cross-Site%20Scripting%20(XSS))
+  * [Cross-Site Scripting (XSS) by SecLists](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/XSS)  
   * [XSS swf fuzz](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/xss_swf_fuzz.txt) 
   * [XSS remote payloads HTTPS](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/xss_remote_payloads-https.txt) 
   * [XSS remote payloads HTTP](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/xss_remote_payloads-http.txt)   
@@ -54,26 +53,27 @@ If you want to add more or If you know the authorship of a dictionary, contact m
   * [SQLI error based](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/sqli-error-based.txt)  
   * [SQLI time based](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/sqli-time-based.txt)  
   * [SQLI union select](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/sqli-union-select.txt)  
-  * [SQLI escape chars](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/sqli_escape_chars.txt)  
-  * [](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/command_exec.txt)  
-  * [](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/command_exec.txt)  
-  * [](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/command_exec.txt)  
-  * [](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/command_exec.txt)  
-  * [](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/command_exec.txt)  
-  
+  * [SQLI escape chars](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/sqli_escape_chars.txt)    
   * [SQL](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/SQL)  
+  * [SQL by SecLists](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/SQLi)  
+  * [Databases by SecLists](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/Databases)  
   * [Path Trasversal](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/traversal-short.txt)  
-  * [Path Trasversal short](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/traversal-short.txt
-)  
+  * [Path Trasversal short](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/traversal-short.txt)  
   * [Path Trasversal by 1N3](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/traversal.txt)  
   * [URL payloads](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/url_payloads.txt)  
-  * [SSI](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/ssi_quick.txt)  
+  * [SSI](https://github.com/Dormidera/WordList-Compendium/blob/master/Injections/FuzzList%20(by%201N3)/ssi_quick.txt)
+  * [SSI Jhaddix](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/SSI-Injection-Jhaddix.txt)  
+  * [LFI](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/LFI)
+  * [LDAP](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LDAP.Fuzzing.txt) 
+  * [JSON](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/JSON.Fuzzing.txt) 
 
 ### Languages :u5272:
   * [German](https://github.com/Dormidera/WordList-Compendium/blob/master/Languages/German)  
   * [Spanish](https://github.com/Dormidera/WordList-Compendium/blob/master/Languages/Spanish)   
   
 ### Vendors/Software :label:
+  * [Web content](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content) 
+    * CMS, DB, APIs, Web Servers, etc. by SecLists.
   * [Vendor Default](https://github.com/decal/werdlists/blob/master/passes-dicts/vendor-default-passwords.csv)  
   * [Tomcat](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Tomcat%20(user:password))  
   * [Oracle](https://github.com/Dormidera/WordList-Compendium/blob/master/Software/Oracle%20(user:password)) 
@@ -93,6 +93,7 @@ If you want to add more or If you know the authorship of a dictionary, contact m
 
 ### Others :bookmark_tabs:
  * [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+ * [User Agents]( https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/User-Agents) 
  * [Google 10000 English](https://github.com/first20hours/google-10000-english)
    * This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus. 
  
