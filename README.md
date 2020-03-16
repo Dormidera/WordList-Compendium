@@ -1,7 +1,5 @@
 ![Logo](https://github.com/Dormidera/WordList-Compendium/blob/master/wordlistcompendiumlogo.png)
 
-![social1](https://img.shields.io/github/followers/Dormidera?label=follow&style=social)![social2](https://img.shields.io/github/stars/Dormidera/WordList-Compendium?style=social)![social3](https://twitter.com/intent/follow?screen_name=Dormidera)
-
 Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, etc. In a peculiar order, sorry.
 
 If you want to add more or If you know the authorship of a dictionary, contact me.
