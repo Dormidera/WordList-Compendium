@@ -98,6 +98,8 @@ If you want to add more or If you know the authorship of a dictionary, contact m
    * This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus. 
  
 ### Tools :hammer:
+* [BurpSuite](https://github.com/SilverPoision/a-full-list-of-wordlists/tree/master/Wordlists/burp_pack)
+  * Burp-pack with all the dictionaries available in the tool BurpSuite. 
 * [SQLmap](https://github.com/sqlmapproject/sqlmap)
   * sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
 * [Hashcat](https://github.com/hashcat/hashcat)
