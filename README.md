@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Dormidera/WordList-Compendium/blob/master/wordlistcompendiumlogo.png)
 
-Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, etc. In a peculiar order, sorry.
+Personal compilation of wordlists & dictionaries for everything. Users, passwords, directories, files, vulnerabilities, fuzzing, injections, wordlists of tools, etc.
 
 If you want to add more or If you know the authorship of a dictionary, contact me.
 
