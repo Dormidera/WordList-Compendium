@@ -92,6 +92,7 @@ If you want to add more or If you know the authorship of a dictionary, contact m
  * [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains)
 
 ### Others :bookmark_tabs:
+ * [Google Fuzzing Dictionaries](https://github.com/google/fuzzing/tree/master/dictionaries)
  * [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
  * [User Agents]( https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/User-Agents) 
  * [Google 10000 English](https://github.com/first20hours/google-10000-english)
